@@ -1,0 +1,26 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-wait": "^0.0.2",
+    "reset-css": "^4.0.1",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanmoffatt/tropicali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milanmoffatt/tropicali/issues"
+  },
+  "homepage": "https://github.com/milanmoffatt/tropicali#readme"
+}
